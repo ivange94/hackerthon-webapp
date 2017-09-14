@@ -1,27 +1,34 @@
-# HackerthonWebapp
+# Hackerthon Webapp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
+Front end for the hackerthon app
 
-## Development server
+## Setup
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### Fork repo
 
-## Code scaffolding
+### Clone your fork
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|module`.
+  `git clone https://github.com/YourGitHubId/hackerthon-webapp`
+    
+### Install dependencies
 
-## Build
+  `cd hackethon-webapp`
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+  `npm install`
 
-## Running unit tests
+### Launch dev server
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+   `ng serve`
+   
+Your application will be running on http://localhost:4200
 
-## Running end-to-end tests
+## Contribute
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
+Create an issue here [issues](https://github.com/ivange94/hackerthon-webapp/issues)
+
+And submit a pull request.
+
+Thanks.
 
 ## Further help
 
